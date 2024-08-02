@@ -28,7 +28,7 @@ This site is temporary and will be replaced with a more comprehensive website in
 
 ## How to Access
 
-You can view the website live at: [soft-pretzel-studios.github.io]([https://soft-pretzel-studios.github.io](https://anashaweek-sps.github.io/soft-pretzel-studios.github.io/index.html))
+You can view the website live at: [[soft-pretzel-studios.github.io](https://anashaweek-sps.github.io/soft-pretzel-studios.github.io/index.html)]([[https://soft-pretzel-studios.github.io](https://anashaweek-sps.github.io/soft-pretzel-studios.github.io/index.html)](https://anashaweek-sps.github.io/soft-pretzel-studios.github.io/index.html))
 
 ## Contributing
 
