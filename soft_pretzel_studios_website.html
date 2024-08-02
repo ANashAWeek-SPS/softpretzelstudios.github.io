@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,30 +7,30 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #1c1c1c;
-            color: #ffffff;
+            background-color: #262626;
+            color: #f0f0f0;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #ff6600;
-            color: #ffffff;
+            background-color: #d98833;
+            color: #f0f0f0;
             padding: 20px 0;
             text-align: center;
         }
         nav {
             display: flex;
             justify-content: center;
-            background-color: #333333;
+            background-color: #404040;
         }
         nav a {
-            color: #ffffff;
+            color: #f0f0f0;
             padding: 14px 20px;
             text-decoration: none;
             text-align: center;
         }
         nav a:hover {
-            background-color: #575757;
+            background-color: #595959;
         }
         section {
             padding: 20px;
@@ -39,10 +38,10 @@
             margin: auto;
         }
         h2 {
-            color: #ff6600;
+            color: #d98833;
         }
         .newsletter {
-            background-color: #333333;
+            background-color: #404040;
             padding: 20px;
             text-align: center;
             margin: 20px 0;
@@ -56,28 +55,35 @@
             border: none;
         }
         .newsletter input[type="submit"] {
-            background-color: #ff6600;
-            color: #ffffff;
+            background-color: #d98833;
+            color: #f0f0f0;
             padding: 10px 20px;
             border: none;
             border-radius: 5px;
             cursor: pointer;
         }
         footer {
-            background-color: #333333;
-            color: #ffffff;
+            background-color: #404040;
+            color: #f0f0f0;
             text-align: center;
             padding: 10px 0;
             position: fixed;
             bottom: 0;
             width: 100%;
         }
+        .project-link {
+            color: #d98833;
+            text-decoration: none;
+        }
+        .project-link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <header>
         <h1>Soft Pretzel Studios</h1>
-        <p>Welcome to the official website of Nashiem, founder and solo developer at Soft Pretzel Studios.</p>
+        <p>Welcome to Soft Pretzel Studios, where creativity meets innovation.</p>
     </header>
     <nav>
         <a href="#about">About Me</a>
@@ -88,24 +94,23 @@
     </nav>
     <section id="about">
         <h2>About Me</h2>
-        <p>My name is Nashiem, and I am the Founder of Soft Pretzel Studios, based in Richmond, VA. Currently, I am focusing on a mobile game, but I plan for most of my games to be released on Steam. Along with game development, I run a YouTube channel where I discuss games I like, indie games, and create video essays. I am a solo developer using tools like Godot 4, GitHub, Audacity, and Krita.</p>
+        <p>Hi, I'm Nashiem, a solo game developer based in Richmond, VA. I founded Soft Pretzel Studios to bring my passion for gaming to life. Currently, I'm working on a mobile game while planning future Steam releases. I also create video essays on my YouTube channel, discussing games I love and indie gems. My tools of choice include Godot 4, GitHub, Audacity, and Krita.</p>
     </section>
     <section id="projects">
         <h2>Projects</h2>
-        <p>Here you can find the various projects I am working on or have completed. Stay tuned for updates on new releases and developments!</p>
         <ul>
-            <li>Mobile Game: In progress</li>
-            <li>Video Essays on YouTube</li>
-            <li>Upcoming Projects: Games and Comics</li>
+            <li><a class="project-link" href="mobile_game.html">Mobile Game: In Progress</a></li>
+            <li><a class="project-link" href="video_essays.html">Video Essays on YouTube</a></li>
+            <li><a class="project-link" href="upcoming_projects.html">Upcoming Projects: Games and Comics</a></li>
         </ul>
     </section>
     <section id="updates">
         <h2>Updates</h2>
-        <p>Check here for the latest updates on my projects and upcoming releases. Stay connected to see what's new!</p>
+        <p>Stay tuned for the latest updates on my projects and upcoming releases!</p>
     </section>
     <section id="contact">
         <h2>Contact + Feedback</h2>
-        <p>If you have any questions, feedback, or just want to connect, feel free to reach out to me through the form below.</p>
+        <p>If you have any questions, feedback, or are interested in collaboration opportunities, please reach out to me using the form below.</p>
         <form>
             <label for="email">Email:</label><br>
             <input type="email" id="email" name="email"><br>
@@ -115,8 +120,8 @@
         </form>
     </section>
     <section id="join" class="newsletter">
-        <h2>Join Soft Pretzel Studios</h2>
-        <p>Interested in contributing or collaborating with Soft Pretzel Studios? Join our community to stay updated!</p>
+        <h2>Join Our Email List</h2>
+        <p>Join our mailing list to receive updates about new projects and releases. Note: This is not the place for job or collaboration inquiries; please use the contact form above for those.</p>
         <form>
             <input type="email" placeholder="Enter your email" required>
             <input type="submit" value="Join Our Newsletter">
