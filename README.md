@@ -1,15 +1,15 @@
 # Soft Pretzel Studios
 
-Welcome to the temporary GitHub Pages site for **Soft Pretzel Studios**, the creative studio founded by Nashiem. This site is currently under development and serves as a placeholder to share my current projects, updates, and future plans.
+Welcome to the temporary GitHub Pages site for **Soft Pretzel Studios**, the Video Game Studio founded by Nashiem. This site is currently under development and serves as a placeholder to share my current projects, updates, and future plans.
 
 ## About Soft Pretzel Studios
 
-Soft Pretzel Studios is an independent game development studio based in Richmond, VA. Founded by solo developer Nashiem, the studio aims to create innovative and engaging gaming experiences for players on both mobile and PC platforms. My goal is to eventually expand to include a variety of creative projects, including video essays, games, and comics.
+Soft Pretzel Studios is an independent game development studio based in Richmond, VA. My goal is to eventually expand to include a variety of creative projects, including video essays, games, and comics.
 
 ### Current Focus
 
-- **Mobile Game Development**: Currently working on a mobile game project utilizing Godot 4.
-- **Video Essays**: Producing content on YouTube that explores and discusses games, focusing on indie titles and storytelling.
+- **Game Development**: Currently working on a mobile game project utilizing Godot 4.
+- **Youtube Plans**: Soon to be Producing content on YouTube that explores and discusses games, focusing on indie titles and storytelling.
 - **Future Projects**: Planning future releases for Steam and other platforms, including additional games and comic projects.
 
 ## Website Overview
@@ -28,8 +28,7 @@ This site is temporary and will be replaced with a more comprehensive website in
 
 ## How to Access
 
-You can view the website live at: [[[soft-pretzel-studios.github.io](https://anashaweek-sps.github.io/soft-pretzel-studios.github.io/index.html)]([[https://soft-pretzel-studios.github.io](https://anashaweek-sps.github.io/soft-pretzel-studios.github.io/index.html)](https://anashaweek-sps.github.io/soft-pretzel-studios.github.io/index.html))](https://anashaweek-sps.github.io/softpretzelstudios.github.io/)
-
+You can view the website live at: https://anashaweek-sps.github.io/softpretzelstudios.github.io/
 ## Contributing
 
 As a solo developer, I'm always open to collaboration opportunities. If you're interested in contributing to Soft Pretzel Studios or have feedback, please feel free to contact me through the form on the website.
@@ -42,7 +41,6 @@ As a solo developer, I'm always open to collaboration opportunities. If you're i
 
 Thank you for visiting Soft Pretzel Studios' GitHub Pages site. Stay tuned for exciting updates and new releases!
 
-## License
+## Disclaimer
 
-This project is under development and is not licensed for public use. Please contact me for more information if needed.
-
+I did use ChatGPT to write most of this site to save on some time.
