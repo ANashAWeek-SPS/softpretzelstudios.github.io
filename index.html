@@ -66,9 +66,7 @@
             background-color: #404040;
             color: #f0f0f0;
             text-align: center;
-            padding: 10px 0;
-            position: fixed;
-            bottom: 0;
+            padding: 5px 0;
             width: 100%;
         }
         .project-link {
@@ -122,13 +120,13 @@
     <section id="join" class="newsletter">
         <h2>Join Our Email List</h2>
         <p>Join our mailing list to receive updates about new projects and releases. Note: This is not the place for job or collaboration inquiries; please use the contact form above for those.</p>
-        <form>
-            <input type="email" placeholder="Enter your email" required>
+        <form action="YOUR_EMAIL_INTEGRATION_ENDPOINT" method="POST">
+            <input type="email" name="email" placeholder="Enter your email" required>
             <input type="submit" value="Join Our Newsletter">
         </form>
     </section>
     <footer>
-        <p>&copy; 2024 Soft Pretzel Studios. All rights reserved.</p>
+        <p>&copy; 2024 Soft Pretzel Studios</p>
     </footer>
 </body>
 </html>
