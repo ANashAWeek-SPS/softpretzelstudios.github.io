@@ -4,7 +4,7 @@ Welcome to the temporary GitHub Pages site for **Soft Pretzel Studios**, the Ent
 
 ## About Soft Pretzel Studios
 
-Soft Pretzel Studios is an independent game development first studio based in Richmond, VA. The goal is to eventually expand to include a variety of creative projects, including comics, books, movies, TCG, and other cool projects like a browser and some OS's. 
+Soft Pretzel Studios is an independent game development first studio based in Richmond, VA. The goal is to eventually expand to include a variety of creative projects, including comics, books, movies, TCG, and other cool projects like a browser and even a mobile and desktop OS (because why not lmao).
 
 ### Current Focus
 
